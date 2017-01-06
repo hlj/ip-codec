@@ -1,0 +1,27 @@
+{
+  "name": "ip-codec",
+  "version": "1.0.0",
+  "description": "A simple tool for converting IP address to ascii string.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlj/ip-codec.git"
+  },
+  "keywords": [
+    "ip",
+    "codec",
+    "ascii"
+  ],
+  "author": {
+    "name": "Huang lijun",
+    "email": "hlj8080@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlj/ip-codec/issues"
+  },
+  "homepage": "https://github.com/hlj/ip-codec"
+}
